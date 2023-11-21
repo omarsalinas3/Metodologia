@@ -1,4 +1,8 @@
 Algoritmo  Correos
+//Algoritmo que Verifica si el correo es correctpo o no
+//Autor: Omar Salinas Salinas
+//email: salinasomar996@gmail.com
+//21/11/2023
 	Definir correo como texto;
 	Definir co,ar, pu, lo Como Entero;
 	ar<-0;
