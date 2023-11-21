@@ -1,4 +1,8 @@
 Algoritmo Sembrado_Zanahorias
+//Algoritmo que muestra los huertos de Zanahorias y lechugas dados por el usuario
+//Autor: Omar Salinas Salinas
+//email: salinasomar996@gmail.com
+//21/11/2023
 	Definir c,le Como Entero;
 	Escribir "Ingrese un numero";
 	Leer le;
